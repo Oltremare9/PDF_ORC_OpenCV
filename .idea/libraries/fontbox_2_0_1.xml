@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="commons-logging-1.2">
+  <library name="fontbox-2.0.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/fontbox-2.0.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
